@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri:
 
