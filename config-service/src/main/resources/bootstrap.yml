@@ -7,8 +7,8 @@ spring:
         git:
           uri: https://github.com/Hazzim-Escarcega/microservices-app.git
           searchPath: config-data
-          username: ${GIT_USER}
-          password: ${GIT_PASSWORD}
+          username: Hazzim-Escarcega
+          password: Stormlord.1307
   security:
     user:
       name: root
